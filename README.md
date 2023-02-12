@@ -1,6 +1,7 @@
-# { PROJECT NAME }
+# Marxist.store 
 
 ## Overview
+I place to sell marxist essentials
 
 ## Info
 
