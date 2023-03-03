@@ -1,25 +1,18 @@
 # Books 
-These will all be orgnised in time
+These will all be organised in time
 ## People
 - Marx 
 - Engels 
-- Lafargue 
-- Kautsky 
-- Zetkin
-- Plekhanov
 - Luxemburg
-- Connolly
-- De Leon 
 - Eugene Debs 
 - Connolly
 - Lenin
 - Trotsky
-- Stalin
 - Mao
-- Lukacs
 - Gamsci
-- Ibarrui
 - Horkeimer 
 - Adorno
 
+- Parenti (dk if hes public domain)
+These are just the ones I have read
 ## Movments
