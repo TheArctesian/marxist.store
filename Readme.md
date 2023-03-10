@@ -4,6 +4,7 @@ I store that sells Marxist (and it's derivatives/companions) books and merch.
 
 I have a strange feeling this is going to slowly become a massive project (in code size) that I will struggle to control
 
+Possibly do it on woo commerce
 - [ ] Set up web design
     - [ ] Set up logo
 
