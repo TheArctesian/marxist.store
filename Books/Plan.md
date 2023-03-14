@@ -1,5 +1,9 @@
 # Books 
 These will all be organised in time
+
+~ 11x16
+
+
 ## People
 Foundation of everything in ordder => https://www.marxists.org/reference/index.htm
 - Marx 
