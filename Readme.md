@@ -16,3 +16,7 @@ Possibly do it on woo commerce
 # Shirts 
 - [ ] Find a printing API
 
+
+# Website 
+- [ ] User acounts 
+- [ ] Figure out prisma database
