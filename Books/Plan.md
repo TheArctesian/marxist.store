@@ -1,6 +1,5 @@
 # Books 
 These will all be organised in time
-
 ~ 11x16
 
 
@@ -9,7 +8,6 @@ Foundation of everything in ordder => https://www.marxists.org/reference/index.h
 - Pierre-Joseph Proudhon
     - [ ] 1840: What is Property?
 - Karl Marx 
-    - [ ] 1845: Theses on Feuerbach
     - [ ] 1846: [A Critique of] the German Ideology
     - [ ] 1847: Principles of Communism
     - [ ] 1848: The Communist Manifesto
@@ -74,6 +72,7 @@ Foundation of everything in ordder => https://www.marxists.org/reference/index.h
     - [ ] 1917: The State and Revolution 
     - [ ] 1918: The Proletarian Revolution and the Renegade Kautsky 
     - [ ] 1920: Left-Wing Communism: An Infantile Disorder 
+    - [ ] 1923: The Three Sources and Three Component Parts of Marxism
 - Josef Stalin 
     - [ ] 1907: Anarchism or Socialism? 
         This was Stalin's first major published work. It was a response to the anarchist critique of Marxism.
@@ -89,7 +88,7 @@ Foundation of everything in ordder => https://www.marxists.org/reference/index.h
     - [ ] 1920: Terrorism and Communism 
     - [ ] 1924: Literature and Revolution
     - [ ] 1930: The History of the Russian Revolution
-    - [ ] 1930 The Permanent Revolution 
+    - [ ] 1930: The Permanent Revolution 
     - [ ] 1930: My Life: An Attempt at an Autobiography
     - [ ] 1936: The Revolution Betrayed 
 - Mao Ze Dong
@@ -100,6 +99,12 @@ Foundation of everything in ordder => https://www.marxists.org/reference/index.h
     - [ ] 1940: On New Democracy
     - [ ] 1950: The Chinese Revolution and the Chinese Communist Party
     - [ ] 1964: Quotations from Chairman Mao Tse-tung
+- György Lukács
+    - [ ] 1920 The Theory of the Novel 
+    - [ ] 1923: History and Class Consciousness
+    - [ ] 1924: Lenin: A Study in the Unity of His Thought 
+    - [ ] 1925: Tactics and Ethics
+    - [ ] 1926: Tailism and the Dialectic 
 - Jean-Paul Stare 
     - [ ] 1957: Search for a Method  1895: The Development of the Monist View of History" - 1895
     - [ ] 1960: Critique of Dialectical Reason
@@ -116,15 +121,22 @@ Foundation of everything in ordder => https://www.marxists.org/reference/index.h
     - [ ] 1967: "Critique of Instrumental Reason" (co-authored with Juergen Habermas) 
 - Theodore Adorno
     - [ ] 1947: "Dialectic of Enlightenment" (co-authored with Max Horkeimer ) 
-    - [ ] 1966: "Negative Dialectics"
-    - [ ] 1970: "Aesthetic Theory" 
     - [ ] 1951: "Minima Moralia: Reflections From Damaged Life" 
     - [ ] 1950: "The Authoritarian Personality" (co-authored with others)
+    - [ ] 1966: "Negative Dialectics"
+    - [ ] 1970: "Aesthetic Theory" 
+- Louis Althusser 
+    - [ ] 1965: For Marx 
+    - [ ] 1965: Reading Capital 
+    - [ ] 1968: Lenin and Philosophy and Other Essays
+    - [ ] 1970: Ideology and Ideological State Apparatuses
+
 
 Modern Recomendations: 
 - Parenti 
 - Debt 500 years
 - Zeizek 
+- Vijay Prashad
 
 
 ## Movments

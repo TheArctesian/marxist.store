@@ -1,32 +1,10 @@
 [
-    {
-        "Title": "Late Capitalism or Industrial Society?",
-        "Author": "Theodor Adorno",
-        "Date" : 1968,
-        "Link" : "https://www.marxists.org/reference/archive/adorno/1968/late-capitalism.htm"
-    },
-    {
-        "Title": "Late Capitalism or Industrial Society?",
-        "Author": ["Theodor Adorno", "Max Horkheimer"],
-        "Date" : 1944,
-        "Link" : "https://www.marxists.org/reference/archive/adorno/1968/late-capitalism.htm"
-    },
-    {
-        "Title": "",
-        "Author": "",
-        "Date" : 10,
-        "Link" : ""
-    },
-    {
-        "Title": "",
-        "Author": "",
-        "Date" : 10,
-        "Link" : ""
-    },
-    {
-        "Title": "",
-        "Author": "",
-        "Date" : 10,
-        "Link" : ""
-    }
+  {
+    "Title": "",
+    "Released": 1900,
+    "Author": "",
+    "Description": "",
+    "EbookLink": "",
+    "Source": ""
+  }
 ]
