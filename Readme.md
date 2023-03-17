@@ -20,3 +20,7 @@ Possibly do it on woo commerce
 # Website 
 - [ ] User acounts 
 - [ ] Figure out prisma database
+
+# Links 
+- [ ] Add links to good extra info
+    http://www.massline.org/Dictionary/index.htm (Marxist dict)
