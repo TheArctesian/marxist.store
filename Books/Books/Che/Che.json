@@ -1,0 +1,27 @@
+[
+  {
+    "Title": "Motorcycle Diaries",
+    "Released": 1952,
+    "Author": "Che Guevara",
+    "Description": "A memoir that chronicles Guevara's travels through South America with his friend Alberto Granado",
+    "EbookLink": "",
+    "Source": ""
+  },
+  {
+    "Title": "Guerilla Warfare",
+    "Released": 1960,
+    "Author": "Che Guevara",
+    "Description": "A manual that outlined Guevara's philosophy and tactics for conducting guerrilla warfare",
+    "EbookLink": "",
+    "Source": ["https://smallwarsjournal.com/documents/guevara.pdf", "https://faculty.chass.ncsu.edu/slatta/hi216/documents/che.htm#11"]
+  },
+  {
+    "Title": "Socialism and man in Cuba",
+    "Released": 1965,
+    "Author": "Che Guevara",
+    "Description": "n essay in which Guevara discussed the need for a new socialist man and the relationship between socialism and individual freedom.",
+    "EbookLink": "",
+    "Source": "https://thetricontinental.org/wp-content/uploads/2020/10/Che_Guevara_On_Socialism_and_Internationalism_EN.pdf"
+  }
+]
+
